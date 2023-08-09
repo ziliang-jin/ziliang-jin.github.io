@@ -1,11 +1,11 @@
 ---
 layout: archive
-permalink: /markdown/
+permalink: /miscellaneous/
 title: ""
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /miscellaneous.html
 ---
 {% include base_path %} 
 
