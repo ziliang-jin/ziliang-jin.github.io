@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %} 
 
-# Journal publications
+# Journal Publications
 1. Vehicle rebalancing in a shared micromobility system with rider crowdsourcing, **Manufacturing & Service Operations Management**, forthcoming, 2023. ([DOI](https://pubsonline.informs.org/doi/abs/10.1287/msom.2023.1199))   
 Joint with Yulan Wang, Yun Fong Lim, Kai Pan, and Zuo-Jun Max Shen
 
@@ -16,6 +16,6 @@ Joint with Qian Lei, Juan He, and Chao Ma
 1. Data-driven look-ahead unit commitment considering forbidden zones and dynamic ramping rates, **IEEE Transactions on Industrial Informatics**, 15(6): 3267-3276, 2019. ([DOI](https://ieeexplore.ieee.org/abstract/document/8493336?casa_token=9prJPr0QauMAAAAA:ywW_WcplPwc_2xz2cq_pgEYnaxjR5wW47MWsuOeoT5wwprimBnr0uX9_MqIEz9JrzoxW2bjztw))   
 Joint with Kai Pan, Lei Fan, and Tao Ding
 
-# Selected working papers
+# Selected Working Papers
 1. Integrated Vehicle Allocation and Relocation for Shared Micromobility under Competition and Demand Uncertainty, **Production and Operations Management**, reject and resubmit.   
 Joint with Kai Pan, Zuo-Jun Max Shen, and Wenxin Xu
