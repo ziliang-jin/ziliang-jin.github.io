@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %} 
 
 ## Honors and Awards
-* The Hong Kong PhD Fellowship Scheme (HKPFS) Awardee, Research Grants Council of Hong Kong, 2020
+* The Hong Kong PhD Fellowship Scheme (HKPFS) awardee, Research Grants Council of Hong Kong, 2020
