@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ziliang Jin"
+title                    : "Ziliang Jin (金子亮)"
 title_separator          : "-"
 name                     : &name "Ziliang Jin"
 description              : &description "Ph.D. Candidate of Faculty of Business, The Hong Kong Polytechnic University"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ziliang Jin (金子亮)"
+  name             : "Ziliang Jin"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate of Faculty of Business, The Hong Kong Polytechnic University"
   location         : # "Location"
