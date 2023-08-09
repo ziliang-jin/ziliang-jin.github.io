@@ -1,16 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
+{% include base_path %} 
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+# Journal publications
+1. Vehicle rebalancing in a shared micromobility system with rider crowdsourcing, **Manufacturing & Service Operations Management**, Forthcoming ( [DOI](https://pubsonline.informs.org/doi/abs/10.1287/msom.2023.1199) ).   
+Joint with Yulan Wang, Yun Fong Lim, Kai Pan, Zuo-Jun Max Shen
