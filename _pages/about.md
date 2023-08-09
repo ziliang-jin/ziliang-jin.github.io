@@ -13,7 +13,7 @@ Hello! I am currently a fourth-year Ph.D. candidate in [the Department of Logist
 ### Research Interest
 
 * **Theories:**
-Stochastic Optimization, Robust Optimization
+Data-driven Optimization, Robust Optimization
 * **Applications:**
 Power System, Transportation
 
