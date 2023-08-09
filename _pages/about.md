@@ -18,5 +18,5 @@ Stochastic Optimization, Robust Optimization
 Power System, Transportation
 
 ### Education
-* **Ph.D. Candidate in Operations Research**
+* **Ph.D. Candidate in Operations Research**   
 Faculty of Business, The Hong Kong Polytechnic University (2020-Current) (Advisor: [Dr. Kai Pan](https://sites.google.com/view/kaipanuf/home))
