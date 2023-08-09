@@ -10,9 +10,9 @@ redirect_from:
 
 Hello! I am currently a fourth-year Ph.D. candidate in [the Department of Logistics and Maritime Studies](https://www.polyu.edu.hk/lms), Faculty of Business, The Hong Kong Polytechnic University.
 
-### Research Interest
+### Research Interests
 
-* **Theories:**
+* **Methodologies:**
 Data-driven Optimization, Robust Optimization
 * **Applications:**
 Smart City Operations, Power System
