@@ -3,9 +3,6 @@ layout: archive
 permalink: /miscellaneous/
 title: ""
 author_profile: true
-redirect_from: 
-  - /md/
-  - /miscellaneous.html
 ---
 {% include base_path %} 
 
