@@ -12,9 +12,9 @@ Hello! I am a Ph.D. candidate in the Department of Logistics and Maritime Studie
 
 ### Research Interest
 
-* **Theories**
+* **Theories:**
 Stochastic Optimization, Robust Optimization
-* **Applications**
+* **Applications:**
 Power System, Transportation
 
 ### Education
