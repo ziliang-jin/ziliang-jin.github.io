@@ -15,7 +15,7 @@ Hello! I am currently a fourth-year Ph.D. candidate in [the Department of Logist
 * **Theories:**
 Data-driven Optimization, Robust Optimization
 * **Applications:**
-Power System, Transportation
+Smart City Operations, Power System
 
 ### Education
 * **Ph.D. Candidate in Operations Research**   
