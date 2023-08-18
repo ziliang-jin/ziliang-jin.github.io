@@ -8,4 +8,7 @@ author_profile: true
 
 # Teaching Experiences
 ## Teaching Assistant
-* To be updated
+* The Hong Kong Polytechnic University
+1. LGT4017: Information Systems for Logistics Management, 2022 Spring
+2. LGT4115: E-commerce and Logistics, 2022 Spring
+3. LGT5113: Enterprise Resource Planning, 2022 Spring
