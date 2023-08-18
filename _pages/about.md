@@ -13,7 +13,7 @@ Hello! I am a fourth-year Ph.D. candidate in [the Department of Logistics and Ma
 ### Research Interests
 
 * **Methodologies:**
-Data-driven Optimization, Robust Optimization
+Robust and Data-Driven Optimization, Stochastic and Discrete Optimization, Machine Learning
 * **Applications:**
 Smart City Operations, Power System
 
