@@ -19,13 +19,13 @@ Smart City Operations, Power System
 
 ### Education
 * **Ph.D. Candidate in Operations Research**   
-Faculty of Business, The Hong Kong Polytechnic University, Hong Kong SAR (2020-Present) (Advisor: [Dr. Kai Pan](https://sites.google.com/view/kaipanuf/home))
+Faculty of Business, The Hong Kong Polytechnic University, Hong Kong (2020-Present) (Advisor: [Dr. Kai Pan](https://sites.google.com/view/kaipanuf/home))
 
 * **M.Sc. in Production Engineering and Management**
-KTH Royal Institute of Technology, Stockholm, Sweden (2018-2020)
+KTH Royal Institute of Technology, Sweden (2018-2020)
 
-* ** B.S. in Management Science**
-South China University of Technology, Guangzhou, China (2014-2018)
+* **B.S. in Management Science**
+South China University of Technology, China (2014-2018)
 
 
 
