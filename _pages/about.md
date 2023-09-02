@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a fourth-year Ph.D. candidate in [the Department of Logistics and Maritime Studies](https://www.polyu.edu.hk/lms), Faculty of Business, The Hong Kong Polytechnic University.
+Hello! I am a fourth-year Ph.D. student (began 2020 fall) in [the Department of Logistics and Maritime Studies](https://www.polyu.edu.hk/lms), Faculty of Business, The Hong Kong Polytechnic University.
 
 ### Research Interests
 
