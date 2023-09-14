@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %} 
 
 # Journal Publications
-1. Vehicle rebalancing in a shared micromobility system with rider crowdsourcing, **Manufacturing & Service Operations Management**, forthcoming. ([DOI](https://pubsonline.informs.org/doi/abs/10.1287/msom.2023.1199))   
+1. Vehicle rebalancing in a shared micromobility system with rider crowdsourcing, **Manufacturing & Service Operations Management**, 25(4): 1394-1415, 2023. ([DOI](https://pubsonline.informs.org/doi/abs/10.1287/msom.2023.1199))   
 Joint with Yulan Wang, Yun Fong Lim, Kai Pan, and Zuo-Jun Max Shen
 
 1. The impact of consumer behavior on preannounced pricing for a dual‐channel supply chain, **International Transactions in Operational Research**, 27 (6): 2949-2975, 2020. ([DOI](https://onlinelibrary.wiley.com/doi/full/10.1111/itor.12786?casa_token=jL5k6n08WjQAAAAA%3AO_w70zG93JZ379_U8CWO610KDsrH8Aqu1FOzlAKXz-nHSPFljNDFC7QJuioNFOt0TZucgG1eJkyGEEdm))   
