@@ -17,5 +17,7 @@ author_profile: true
 **Ziliang Jin**, Kai Pan, Lei Fan, and Tao Ding
 
 # Selected Working Papers
-1. "Integrated Vehicle Allocation and Relocation for Shared Micromobility under Competition and Demand Uncertainty," Reject and Resubmit at **Production and Operations Management** (UTD 24).   
+1. "Integrated Vehicle Allocation and Relocation for Shared Micromobility under Competition and Demand Uncertainty," Reject and Resubmit at **Production and Operations Management**. (UTD 24)   
 **Ziliang Jin**, Kai Pan, Zuo-Jun Max Shen, and Wenxin Xu
+
+1. "Data-Driven Operations for a Grid-Vehicle Integration System," Under Review at **Management Science**. (UTD 24)
