@@ -24,7 +24,7 @@ Faculty of Business, The Hong Kong Polytechnic University, Hong Kong (2020-Prese
 * **M.Sc. in Production Engineering and Management**   
 KTH Royal Institute of Technology, Sweden (2018-2020)
 
-* **B.S. in Management Science**   
+* **B.S. in Industrial Engineering**   
 South China University of Technology, China (2014-2018)
 
 
