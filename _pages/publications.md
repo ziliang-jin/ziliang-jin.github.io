@@ -21,4 +21,4 @@ Qian Lei, Juan He, Chao Ma, and **Ziliang Jin**
 **Ziliang Jin**, Kai Pan, Zuo-Jun Max Shen, and Wenxin Xu
 
 1. "Data-Driven Operations for a Grid-Vehicle Integration System," Under Review at **Management Science**. (UTD 24)   
-**Ziliang Jin**, Jianqiang Cheng, Kai Pan, Zuo-Jun Max Shen, Yulan Wang
+**Ziliang Jin**, Jianqiang Cheng, Kai Pan, Zuo-Jun Max Shen, and Yulan Wang
