@@ -16,7 +16,7 @@ Qian Lei, Juan He, Chao Ma, and **Ziliang Jin**
 1. "Data-Driven Look-Ahead Unit Commitment Considering Forbidden Zones and Dynamic Ramping Rates," **IEEE Transactions on Industrial Informatics**, 15(6): 3267-3276, 2019. ([DOI](https://ieeexplore.ieee.org/abstract/document/8493336?casa_token=9prJPr0QauMAAAAA:ywW_WcplPwc_2xz2cq_pgEYnaxjR5wW47MWsuOeoT5wwprimBnr0uX9_MqIEz9JrzoxW2bjztw)) (IF: 12.3, Flagship Journal of IEEE Industrial Electronics Society)   
 **Ziliang Jin**, Kai Pan, Lei Fan, and Tao Ding
 
-# Selected Working Papers
+# Papers Under Review/Revision
 1. "Integrated Vehicle Allocation and Relocation for Shared Micromobility under Competition and Demand Uncertainty," reject and resubmit at **Production and Operations Management**. (UTD 24)   
 **Ziliang Jin**, Kai Pan, Zuo-Jun Max Shen, and Wenxin Xu
 
