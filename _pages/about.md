@@ -18,7 +18,7 @@ Robust and Data-Driven Optimization, Stochastic and Discrete Optimization, Machi
 Smart City Operations, Power System
 
 ### Education
-* **Ph.D. in Operations Management**   
+* **Ph.D. in Operations Management (Hong Kong PhD Fellowship Scheme awardee)**   
 Faculty of Business, The Hong Kong Polytechnic University, Hong Kong (2020-2024) (Advisor: [Dr. Kai Pan](https://sites.google.com/view/kaipanuf/home))
 
 * **M.Sc. in Production Engineering and Management**   
