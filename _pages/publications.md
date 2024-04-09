@@ -20,5 +20,5 @@ Qian Lei, Juan He, Chao Ma, and **Ziliang Jin**
 1. "Integrated Vehicle Allocation and Relocation for Shared Micromobility under Competition and Demand Uncertainty," under revision. 
 **Ziliang Jin**, Kai Pan, Zuo-Jun Max Shen, and Wenxin Xu
 
-1. "Robust Grid-Vehicle Integration: A Machine Learning-Driven Optimization Approach," under review. ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4701947)) 
+1. "Robust Grid-Vehicle Integration: A Machine Learning-Driven Optimization Approach," under review. ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4701947))   
 **Ziliang Jin**, Jianqiang Cheng, Kai Pan, Zuo-Jun Max Shen, and Yulan Wang
