@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a fourth-year Ph.D. student (began 2020 fall) in [the Department of Logistics and Maritime Studies](https://www.polyu.edu.hk/lms), Faculty of Business, The Hong Kong Polytechnic University.
+Greetings! I will be joining [the School of Economics and Management (Chinese version)](https://em.seu.edu.cn/), at Southeast University, Nanjing, China, as a tenure-track Associate Professor.
 
 ### Research Interests
 
@@ -19,7 +19,7 @@ Smart City Operations, Power System
 
 ### Education
 * **Ph.D. Candidate in Operations Management**   
-Faculty of Business, The Hong Kong Polytechnic University, Hong Kong (2020-Present) (Advisor: [Dr. Kai Pan](https://sites.google.com/view/kaipanuf/home))
+Faculty of Business, The Hong Kong Polytechnic University, Hong Kong (2020-2024) (Advisor: [Dr. Kai Pan](https://sites.google.com/view/kaipanuf/home))
 
 * **M.Sc. in Production Engineering and Management**   
 KTH Royal Institute of Technology, Sweden (2018-2020)
