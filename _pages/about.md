@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I will be joining [School of Economics and Management](https://em.seu.edu.cn/) at Southeast University, Nanjing, China, as a tenure-track Associate Professor.
+Greetings! I am a tenure-track Associate Professor in [School of Economics and Management](https://em.seu.edu.cn/) at Southeast University, Nanjing, China.
 
 ### Research Interests
 
