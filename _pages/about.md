@@ -17,15 +17,19 @@ Robust and Data-Driven Optimization, Stochastic and Discrete Optimization, Machi
 * **Applications:**
 Smart City Operations, Power System
 
+### Academic Position
+* **Department of Logistics Management and Engineering**
+Tenure-track Associate Professor, 2024.05--Present
+
 ### Education
 * **Ph.D. in Operations Management (Hong Kong PhD Fellowship Scheme awardee)**   
-Faculty of Business, The Hong Kong Polytechnic University, Hong Kong (2020-2024) (Supervisor: [Dr. Kai Pan](https://sites.google.com/view/kaipanuf/home))
+Faculty of Business, The Hong Kong Polytechnic University, Hong Kong (2020--2024) (Supervisor: [Dr. Kai Pan](https://sites.google.com/view/kaipanuf/home))
 
 * **M.Sc. in Production Engineering and Management**   
-KTH Royal Institute of Technology, Sweden (2018-2020)
+KTH Royal Institute of Technology, Sweden (2018--2020)
 
 * **B.S. in Industrial Engineering**   
-South China University of Technology, China (2014-2018)
+South China University of Technology, China (2014--2018)
 
 
 
