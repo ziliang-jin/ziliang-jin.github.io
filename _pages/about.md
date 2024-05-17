@@ -18,7 +18,7 @@ Robust and Data-Driven Optimization, Stochastic and Discrete Optimization, Machi
 Smart City Operations, Power System
 
 ### Academic Position
-* **Department of Logistics Management and Engineering**
+* **Department of Logistics Management and Engineering**   
 Tenure-track Associate Professor, 2024.05--Present
 
 ### Education
