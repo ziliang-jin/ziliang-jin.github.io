@@ -18,7 +18,7 @@ Robust and Data-Driven Optimization, Stochastic and Discrete Optimization, Machi
 Smart City Operations, Power System
 
 ### Academic Position
-* **Department of Logistics Management Engineering**   
+* **Department of Logistics Management Engineering, School of Economics and Management, Southeast University, Nanjing, China**   
 Tenure-track Associate Professor, 2024.05--Present
 
 ### Education
