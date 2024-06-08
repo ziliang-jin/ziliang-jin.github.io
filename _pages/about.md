@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I am a tenure-track Associate Professor in [School of Economics and Management](https://em.seu.edu.cn/) at Southeast University, Nanjing, China. My official website (in Chinese) is [here](https://em.seu.edu.cn/jzl/list.htm)
+Greetings! I am a tenure-track Associate Professor in [School of Economics and Management](https://em.seu.edu.cn/) at Southeast University, Nanjing, China. My official website (in Chinese) is [here](https://em.seu.edu.cn/jzl/list.htm).
 
 ### Research Interests
 
