@@ -19,3 +19,5 @@ author_profile: true
 * Session Chair, 2023--2024 POMS International Conference in China
 * Session Chair, 2023 CSAMSE Annual Conference
 
+## Academic Family Tree
+Try to find my name among 900+ academic descendants in my big big big [academic family tree](/files/GrossmannFamilyTree.pdf) :)  
