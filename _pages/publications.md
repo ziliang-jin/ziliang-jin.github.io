@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %} 
 
 # Journal Publications
-1. "Integrated Vehicle Allocation and Relocation for Shared Micromobility under Competition and Demand Uncertainty," *IISE Transactions*, forthcoming, 2024. ([DOI](https://www.tandfonline.com/doi/abs/10.1080/24725854.2024.2404555))   
+1. "Integrated Vehicle Allocation and Relocation for Shared Micromobility under Competition and Demand Uncertainty," *IISE Transactions*, 2024. ([DOI](https://www.tandfonline.com/doi/abs/10.1080/24725854.2024.2404555))   
 **Ziliang Jin**, Kai Pan, Zuo-Jun Max Shen, and Wenxin Xu
 
 1. "Vehicle Rebalancing in A Shared Micromobility System with Rider Crowdsourcing," ***Manufacturing & Service Operations Management***, 25(4): 1394-1415, 2023. ([DOI](https://pubsonline.informs.org/doi/abs/10.1287/msom.2023.1199)) (UTD 24)   
