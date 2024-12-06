@@ -24,13 +24,13 @@ Qian Lei, Juan He, Chao Ma, and **Ziliang Jin**
 1. "Harmonizing SAA and DRO," under review.   
 **Ziliang Jin**, Jianqiang Cheng, Daniel Zhuoyu Long, Kai Pan
 
-1. "Robust Grid-Vehicle Integration: A Machine Learning-Driven Optimization Approach," under review. ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4701947))   
+1. "Robust grid-vehicle integration: A machine learning-driven optimization approach," under review. ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4701947))   
 **Ziliang Jin**, Jianqiang Cheng, Kai Pan, Zuo-Jun Max Shen, Yulan Wang
 
-1. "Managing Shared Mobility Systems with Electric Vehicles Under Correlated Demand Uncertainties," under review. ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4959578))   
+1. "Managing shared mobility systems with electric vehicles under correlated demand uncertainties," under review. ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4959578))   
 **Ziliang Jin**, Yun Fong Lim, Kai Pan
 
-1. "Managing Shared Electric Micromobility Systems: Allocation Planning and Battery Swapping," under review. ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4964436))   
+1. "Managing shared electric micromobility systems: Allocation planning and battery swapping," under review. ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4964436))   
 **Ziliang Jin**, Dining Ma<sup>#</sup>, Peixuan Li, Yuanbo Li, Lianmin Zhang
 
 #: students supervised by me
