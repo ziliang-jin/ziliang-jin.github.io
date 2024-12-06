@@ -21,9 +21,6 @@ Qian Lei, Juan He, Chao Ma, and **Ziliang Jin**
 
 # Selected Papers Under Review/Revision
 
-1. "Harmonizing SAA and DRO," under review.   
-**Ziliang Jin**, Jianqiang Cheng, Daniel Zhuoyu Long, Kai Pan
-
 1. "Robust grid-vehicle integration: A machine learning-driven optimization approach," under review. ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4701947))   
 **Ziliang Jin**, Jianqiang Cheng, Kai Pan, Zuo-Jun Max Shen, Yulan Wang
 
