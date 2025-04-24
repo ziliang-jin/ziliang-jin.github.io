@@ -22,10 +22,10 @@ author_profile: true
 
 # Selected Papers Under Revision
 
-1. "Robust grid-vehicle integration: A machine learning-driven optimization approach" ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4701947))   
+1. "Robust grid-vehicle integration: A machine learning-driven optimization approach" ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4701947)), under reject and resubmit at OR   
 **Ziliang Jin**, Jianqiang Cheng, Kai Pan, Zuo-Jun Max Shen, Yulan Wang
 
-1. "Managing shared mobility systems with electric vehicles under correlated demand uncertainties" ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4959578))   
+1. "Managing shared mobility systems with electric vehicles under correlated demand uncertainties" ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4959578)), under reject and resubmit at M&SOM   
 **Ziliang Jin**, Yun Fong Lim, Kai Pan
 
 #: students supervised by me
