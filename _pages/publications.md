@@ -25,13 +25,13 @@ author_profile: true
 
 # Selected Working Papers
 
-1. "Robust grid-vehicle integration: A machine learning-driven optimization approach" ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4701947)), under reject and resubmit at *OR*   
+1. "Robust grid-vehicle integration: A machine learning-driven optimization approach" ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4701947)),   
 **Ziliang Jin**, Jianqiang Cheng, Kai Pan, Zuo-Jun Max Shen, Yulan Wang
 
-1. "Managing shared mobility systems with electric vehicles under correlated demand uncertainties" ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4959578)), under reject and resubmit at *M&SOM*   
+1. "Managing shared mobility systems with electric vehicles under correlated demand uncertainties" ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4959578)),   
 **Ziliang Jin**, Bin Tian, Yun Fong Lim, Kai Pan
 
-1. "Harmonizing SAA and DRO" ([arXiv](https://arxiv.org/abs/2508.18767)), under review   
+1. "Harmonizing SAA and DRO" ([arXiv](https://arxiv.org/abs/2508.18767)),   
 **Ziliang Jin**, Jianqiang Cheng, Daniel Zhuoyu Long, Kai Pan
 
 #: students supervised by me
