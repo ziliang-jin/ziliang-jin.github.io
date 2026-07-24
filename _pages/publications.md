@@ -14,7 +14,7 @@ author_profile: true
 1. "Integrated vehicle allocation and relocation for shared micromobility under competition and demand uncertainty," *IISE Transactions*, 57 (8), 994-1013, 2025. ([DOI](https://www.tandfonline.com/doi/abs/10.1080/24725854.2024.2404555)) (Featured Article)  
 **Ziliang Jin**, Kai Pan, Zuo-Jun Max Shen, and Wenxin Xu
 
-1. "Buying from stability: Cross-border geopolitical risk and transaction value reallocation in global supply chains," *International Journal of Operations & Production Management*, 2026. ([DOI](https://www.emerald.com/ijopm/article-abstract/46/8/1355/1387762/Buying-from-stability-cross-border-geopolitical?redirectedFrom=fulltext)) 
+1. "Buying from stability: Cross-border geopolitical risk and transaction value reallocation in global supply chains," *International Journal of Operations & Production Management*, 2026. ([DOI](https://www.emerald.com/ijopm/article-abstract/46/8/1355/1387762/Buying-from-stability-cross-border-geopolitical?redirectedFrom=fulltext))   
 **Ziliang Jin**, Jing Chen, Xueyan Zhou<sup>#</sup>, Wenjun Shu, and Di Fan
 
 1. "Harmonizing sample average approximation and distributionally robust optimization," *Omega*, 144, 103584, 2026. ([DOI](https://www.sciencedirect.com/science/article/abs/pii/S0305048326000733))   
